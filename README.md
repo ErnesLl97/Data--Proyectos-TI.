@@ -6,7 +6,7 @@
     </p>
     
 </p> 
-<p align="center">A end to end data science project to learn about data engineering, data analysis and how machine learning can be used to solve the problem</b></p>
+<p align="center">Un proyecto de ciencia de datos de extremo a extremo para aprender sobre ingeniería de datos, análisis de datos y cómo se puede utilizar el aprendizaje automático para resolver el problema</b></p>
 
 
 ## Getting Started
