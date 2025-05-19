@@ -8,15 +8,10 @@
 </p> 
 <p align="center">A end to end data science project to learn about data engineering, data analysis and how machine learning can be used to solve the problem</b></p>
 
-## Overview
-This project is used as a method to learn more about data science workflow. From gathering needed data as data engineer, analyse what can be improved as data analyst and use machine learning as opportunities to automate certain task to improve our ecommerce system.
 
 ## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://drive.google.com/drive/folders/1EhdzxzMnBAIJyZU9aXpXrXs58gSnTMKU?usp=sharing) within this drive.
-3. Data processing/transformation scripts are being kept [here](scripts)
-
+Este proyecto integral de ciencia de datos abarca desde la ingeniería de datos y el análisis hasta la aplicación de aprendizaje automático para resolver problemas en el ámbito del comercio electrónico. 
 
 ## Data Warehouse Schema
 [Link](https://dbdiagram.io/d/604272d1fcdcb6230b22cecc)
@@ -37,7 +32,4 @@ root
 ├───reports          <- Reports from training model
 ├───src              <- Script to train models.
 ├───scripts          <- Source code for use in this project.
-```
 
-## ❤️ Support
-If you feel that this repo have helped you provide more example on learning software engineering, then it is enough for me! Wanna contribute more? Please ⭐ this repo so other can see it too!
