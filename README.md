@@ -7,6 +7,7 @@ Sklearn
 Python Visualization Library (matplotlib, seaborn)
 
 raíz 
+
 ├───bin <- Modelos entrenados y serializados, predicciones de modelos o resúmenes de modelos 
 ├───data <- Datos sin procesar y procesados 
 ├───figure <- Figura utilizada para la documentación 
