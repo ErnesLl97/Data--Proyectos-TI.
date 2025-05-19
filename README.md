@@ -6,12 +6,13 @@ Pandas
 Sklearn
 Python Visualization Library (matplotlib, seaborn)
 
-raíz 
+Estructura del Proyecto
 
-├───bin <- Modelos entrenados y serializados, predicciones de modelos o resúmenes de modelos 
-├───data <- Datos sin procesar y procesados 
-├───figure <- Figura utilizada para la documentación 
-├───notebooks <- Cuaderno para experimentar y finalizar resultados 
-├───reports <- Informes del modelo de entrenamiento 
-├───src <- Guión para entrenar modelos. 
-├───scripts <- Código fuente para usar en este proyecto.
+root
+├───bin              <- Trained and serialized models, model predictions, or model summaries
+├───data             <- Raw and processed data
+├───figure           <- Figure used for documentation
+├───notebooks        <- Notebook for experimenting and finalizing results
+├───reports          <- Reports from training model
+├───src              <- Script to train models.
+├───scripts          <- Source code for use in this project.
