@@ -1,18 +1,9 @@
 ---Ecommerce Analytics---
 
+Este proyecto integral de ciencia de datos abarca desde la ingeniería de datos y el análisis hasta la aplicación de aprendizaje automático para resolver problemas en el ámbito del comercio electrónico. Es una excelente muestra del flujo de trabajo completo en ciencia de datos
+
 Tech Stacks
 Python
 Pandas
 Sklearn
 Python Visualization Library (matplotlib, seaborn)
-
-Estructura del Proyecto
-
-root
-├───bin              <- Trained and serialized models, model predictions, or model summaries
-├───data             <- Raw and processed data
-├───figure           <- Figure used for documentation
-├───notebooks        <- Notebook for experimenting and finalizing results
-├───reports          <- Reports from training model
-├───src              <- Script to train models.
-├───scripts          <- Source code for use in this project.
